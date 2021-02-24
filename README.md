@@ -1,1 +1,1 @@
-For more details visit: https://forum.sa-mp.com/showthread.php?t=658376
+For more details watch: https://youtu.be/qaZ6ysc2oHU
