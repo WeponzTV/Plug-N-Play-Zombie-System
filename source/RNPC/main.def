@@ -1,7 +1,0 @@
-LIBRARY	"RNPC"
-EXPORTS
-	Supports
-	Load
-	Unload
-	AmxLoad
-	AmxUnload
