@@ -17,5 +17,6 @@ A small upgrade to your WeponZ system.
 
 
 Credits to WeponZ for the creation of this system, I only contribute my grain of sand.
+https://www.youtube.com/watch?v=TiChVwA0teY
 This is also uploaded on youtube, but I also put it on github in case it gets deleted
 
